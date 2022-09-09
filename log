@@ -2,3 +2,9 @@ Fri 09 Sep 2022 12:18:07 PM UTC:
  tests:  0|6
 total_score: 0/70
 cbb1858
+Fri 09 Sep 2022 12:53:08 PM UTC: 
+ hashmap.c | 22 ++++++++++++++++++++--
+ 1 file changed, 20 insertions(+), 2 deletions(-)
+ tests:  5|4
+total_score: 30/70
+35deeec
